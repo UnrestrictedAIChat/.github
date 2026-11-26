@@ -23,7 +23,7 @@ Platforms that allow longer or more open conversations with fewer interruptions.
 | Privacy notes | Varies | Check platform |
 
 <p align="center">
-  <a href="https://chubby-gf.com/unrestricted"><img src="./free_open.jpg" width="95" alt="Browse"></a>
+  <a href="https://chubby-gf.com/unrestricted"><img src="./free_open.jpg" width="200" alt="Browse"></a>
 </p>
 
 ---
@@ -60,7 +60,7 @@ Open the site, select or create a character, send initial messages, and decide w
 Users seeking open character conversations with fewer restrictions, comfortable testing free first. Less relevant for general-purpose chat or mandatory store apps.
 
 <p align="center">
-  <a href="https://chubby-gf.com/unrestricted"><img src="./free_plans.jpg" width="95" alt="Plans"></a>
+  <a href="https://chubby-gf.com/unrestricted"><img src="./free_plans.jpg" width="200" alt="Plans"></a>
 </p>
 
 ---
